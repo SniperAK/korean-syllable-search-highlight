@@ -4,6 +4,11 @@
 
 # smaple
 
+- Clone this repository and run npm install to ready to run sample
+
+```shell
+node sample
+```
 
 ```javascript
 
