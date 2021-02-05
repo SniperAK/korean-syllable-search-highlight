@@ -2,7 +2,7 @@
 - 한국어 초성 검색 & 하이라이트 엔진
 - Pure javascirpt로 개발 되어있습니다. 
 
-# smaple
+# Sample
 
 - Clone this repository and run npm install to ready to run sample
 

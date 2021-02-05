@@ -1,14 +1,23 @@
 {
   "name": "korean-syllable-search-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SniperAK/korean-syllable-search-highlight"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "colors": "^1.4.0"
-  }
+  }, 
+  "bugs": {
+    "url": "https://github.com/SniperAK/korean-syllable-search-highlight/issues"
+  },
+  "homepage": "https://github.com/SniperAK/korean-syllable-search-highlight#readme"
+
 }
