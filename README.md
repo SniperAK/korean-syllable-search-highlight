@@ -12,7 +12,7 @@ node sample
 
 ```javascript
 
-// impoot 
+// import 
 const SyllableSearchEngine = require('./index.js');
 
 // search data
