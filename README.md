@@ -1,4 +1,4 @@
-# Korean Syllable Search and Hightlight Engine
+# Korean Syllable Search and Highlight Engine
 - 한국어 초성 검색 & 하이라이트 엔진
 - Pure javascirpt로 개발 되어있습니다. 
 
@@ -12,7 +12,7 @@ node sample
 
 ```javascript
 
-// impoort 
+// impoot 
 const SyllableSearchEngine = require('./index.js');
 
 // search data
