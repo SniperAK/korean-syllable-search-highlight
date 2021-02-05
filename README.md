@@ -50,7 +50,7 @@ const filteredList = testList.filter( searchEngine.search( item=>{
   ].filter(e=>e);
 }));
 
-// highliting
+// highlighting
 const _renderItem = ( searchEngine, item )=>{
   let name = searchEngine.decorator(item.name, _decorator ).join(''), phone;
   if( item.phone ){
